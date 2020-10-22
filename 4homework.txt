@@ -1,0 +1,2 @@
+The homework is index. I don't recall if we were to change the homework (index.html) to another file but just in case I'll leave it there. Plus, most of the changes
+roughly 90% of them were DIV to SECTION. Simple enough unless I'm overlooking or misunderstood the intructions.
